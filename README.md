@@ -171,9 +171,10 @@ python scripts/train_cnn.py
 
 ## 👥 Contributors
 - Nithin R Poojary
+- Mahendra Kummar P
 - Vikas Pawar
 - Rahul Vasnt Gunaga
-- Mahendra Kummar P
+
 
 
 ---
