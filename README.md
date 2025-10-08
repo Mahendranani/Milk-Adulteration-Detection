@@ -169,13 +169,6 @@ python scripts/train_cnn.py
 - Automatic error logging
 - Performance statistics tracking
 
-## 👥 Contributors
-- Nithin R Poojary
-- Mahendra Kummar P
-- Vikas Pawar
-- Rahul Vasnt Gunaga
 
 
 
----
-*Last Updated: October 5, 2025*
